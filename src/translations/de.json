@@ -1,0 +1,32 @@
+{
+  "status": {
+    "Cleaning": "Reinigen",
+    "Paused": "Pause",
+    "Idle": "Unbeschäftigt",
+    "Charging": "Laden",
+    "Returning home": "Zurück Nachhause"
+  },
+  "common": {
+    "name": "Vacuum Card",
+    "description": "Mit der Vacuum Card können Sie Ihren Saugroboter steuern.",
+    "start": "Reinigen",
+    "continue": "Weiter",
+    "pause": "Pause",
+    "stop": "Stop",
+    "return_to_base": "Zur Basis zurück",
+    "locate": "Lokalisiere den Saugroboter"
+  },
+  "error": {
+    "missing_entity": "Die Angabe der Entität ist erforderlich!"
+  },
+  "editor": {
+    "entity": "Entity (Benötogt)",
+    "map": "Map Camera (Optional)",
+    "image": "Image (Optional)",
+    "show_name": "Zeige den Namen?",
+    "show_name_aria_label_on": "Schalten Sie den Anzeigenamen ein",
+    "show_name_aria_label_off": "Schalten Sie den Anzeigenamen aus",
+    "show_toolbar": "Zeige Toolbar?",
+    "show_toolbar_aria_label_on": "Schalten Sie die Toolbar ein",
+    "show_toolbar_aria_label_off": "Schalten Sie die Toolbar aus",
+    "code_only_note": "Hinweis: Das Festlegen von Actions und Stats ist ausschließlich mit dem Code-Editor möglich."
